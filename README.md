@@ -17,7 +17,7 @@ In the this project, BigQuery (BQ) is used to explore the Bay Area Bikeshare dat
 
 ### Files 
 The following two files will be used for Jupyter Notebook report.  
-  * [Jupyter Notebook Project-1](https://github.com/mids-w205-de-sola/project-1-sli0111/blob/assignment/Project_1.ipynb)
+  * [Jupyter Notebook](https://github.com/sli0111/lyft_bikeshare/blob/gh-pages/Lyft%20Bikeshare.ipynb)
   * [df_sf_map.jpeg](https://github.com/mids-w205-de-sola/project-1-sli0111/blob/assignment/df_sf_map.jpg)
 
 ### Data Source
