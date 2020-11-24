@@ -319,8 +319,8 @@ ORDER BY Customer DESC LIMIT 10
 |  8 | San Francisco Caltrain (Townsend at 4th) |           72683 |                         13.41 |       4299 |
 |  9 | Market at Sansome                        |           35142 |                         14.3  |       3874 |
 
-### Jupyter Notebook Report: Project-1
-Project-1 is a Jupyter Notebook that provides a report on the findings in this project.  To run the notebook with BigQuery, one needs to install the [Python client for Google BigQuery](https://googleapis.dev/python/bigquery/latest/index.html) or use the Jupyter Notebook on the Google Cloud VM.  
+### Jupyter Notebook Report
+THe Jupyter Notebook provides a report on the findings in this project.  To run the notebook with BigQuery, one needs to install the [Python client for Google BigQuery](https://googleapis.dev/python/bigquery/latest/index.html) or use the Jupyter Notebook on the Google Cloud VM.  
 
 There are 7 sections in the notebook:
 * 0. Import necessary libraries: Pandas, Matplotlib, Seaborn
