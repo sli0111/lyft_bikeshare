@@ -46,7 +46,7 @@ FROM
 
 ### Sample Queries
 
-The following three parts contain sample queries used to understand specific question in this analysis.  Queries listed in Part 1 are for use in UI, Part 2 for use in command line, and Part 3 for use in Jupyter Notebook.
+The following three parts contain sample queries used to understand specific question in this analysis.  Queries listed in Part 1 are for use in UI and Part 2 for use in Jupyter Notebook.  Part 1 covers general queries for basic understanding of the dataset and Part 2 asks deeper questions.
 
 ### Part 1 - Data Query with BigQuery
 
